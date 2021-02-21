@@ -1,16 +1,16 @@
 {
     "name": "python-aria-mirror-bot ",
     "description": "Telegram mirror bot with python",
-    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "logo": "https://telegra.ph/file/bd0714e089b4f0e9fccec.jpg",
     "keywords": [
       "telegram",
       "bot",
       "aria",
       "python"
     ],
-    "repository": "https://github.com/afdulfauzan/python-aria-mirror-bot",
-    "website": "https://afdulfauzan.tech",
-    "success_url": "https://t.me/afdlfz_mirror_bot",
+    "repository": "https://github.com/Subroz/python-aria-mirror-bot-1",
+
+    "success_url": "https://t.me/Mirrorxdbot",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
